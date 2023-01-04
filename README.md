@@ -16,7 +16,7 @@ Using Jupyter notebook, I browsed the Mars NASA News site.  After inspecting the
 
 After inspecting the Mars News website, the daily titiles and their preview statements were scraped from the website. A CSV was created with the mars_news data for viewing data scraped from the site. Data elements were also saved into a json file. 
 
-## 2
+## Part 2
 ### Analysis of Mars Weather
 Using BeautifulSoup we scraped some data from the website and stored it into a Pandas DataFrame. Data analysis was then done on the weather. The DataFrame was exported into a CSV file. 
 
